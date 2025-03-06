@@ -1,5 +1,5 @@
-#Compile
+# Compile
 make
-#flash
+# flash
 make flash
 ### make clean to clear binary files
